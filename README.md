@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+- 😄 I am just a simple developer. 
+- 🌱 I’m currently learning react, laravel, and inertiajs.
 
 <!--
 **ehsanmim/ehsanmim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
