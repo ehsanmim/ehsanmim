@@ -1,7 +1,8 @@
 ### Hi 👋
-- 😄 I am just a simple developer. 
-- 🌱 I’m currently learning React, Laravel, and Inertia.js.
+- 😄 I am a web developer. 
+- 🌱 I’m currently working with React, Laravel, and Inertia.js.
 - 🔭 I’m interested in VR and AR web development and UI.
+- 🤖 I’m learning automation and ai integration in different processes.
 
 <!--
 **ehsanmim/ehsanmim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
